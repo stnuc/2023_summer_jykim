@@ -1,4 +1,4 @@
-# 2023_summer_jykim
+# 2023_adaptive_srgan
 
 ## 1. Project
 - SRGAN 개선 (연구실에서 진행)
